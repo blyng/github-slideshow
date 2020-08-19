@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-metadata
 .bundle
+
+# OS generated files #
+######################
+.DS_Store
